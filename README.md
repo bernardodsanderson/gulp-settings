@@ -17,3 +17,5 @@
 [SASS](https://www.npmjs.com/package/gulp-sass)
 
 [Gulp Watch](https://www.npmjs.com/package/gulp-watch)
+
+[Browsersync](https://www.browsersync.io/docs/gulp/)
